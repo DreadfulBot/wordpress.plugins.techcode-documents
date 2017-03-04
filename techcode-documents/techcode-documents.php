@@ -26,7 +26,7 @@ function techcode_add_admin_pages()
 function techcode_documents_options_page()
 {
     echo '<h2>Настройка документов techcode</h2>';
-    echo '<p>Автор плагина: <a href="https://vk.com/justahuman">Кривощеков Артем</a>';
+    echo '<p>Автор плагина: <a href="https://vk.com/justahuman">Кривощеков Артем</a></p>';
     echo '<strong><p>Внимание! На страницах сайта будут отображаться только первые 9 документов</p></strong>';
 
     echo '<h3>Глобальные настройки</h3>';
